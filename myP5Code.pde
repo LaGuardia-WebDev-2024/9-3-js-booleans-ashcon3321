@@ -3,7 +3,9 @@ setup = function(){
     size(400, 400); 
 };
 
-var theNumber = 100;
+var theNumber = 48;
+
+
 
 //draw Function - will run repeatedly
 draw = function() {
